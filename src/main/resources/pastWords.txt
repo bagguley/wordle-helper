@@ -6,6 +6,7 @@ abide
 about
 above
 abyss
+acorn
 acrid
 actor
 acute
@@ -133,6 +134,7 @@ booze
 boozy
 borax
 bough
+brace
 braid
 brake
 brash
@@ -155,6 +157,7 @@ brook
 broom
 broth
 brush
+brute
 buddy
 buggy
 bugle
@@ -258,6 +261,7 @@ croak
 crone
 cross
 crowd
+crown
 crumb
 crush
 crust
@@ -271,9 +275,10 @@ dandy
 death
 debug
 debut
-decay
 decal
+decay
 decoy
+delay
 delta
 delve
 denim
@@ -360,6 +365,7 @@ fewer
 field
 fiend
 fifty
+filet
 final
 finch
 finer
@@ -387,6 +393,7 @@ floss
 flout
 fluff
 flume
+flunk
 flyer
 focal
 focus
@@ -542,6 +549,7 @@ kazoo
 kebab
 khaki
 kiosk
+knave
 knead
 kneel
 knelt
@@ -550,6 +558,7 @@ knoll
 koala
 label
 labor
+lanky
 lapel
 lapse
 large
@@ -564,6 +573,7 @@ learn
 leash
 leave
 ledge
+leech
 leery
 leggy
 lemon
@@ -574,6 +584,7 @@ limit
 linen
 liner
 lingo
+lithe
 liver
 local
 locus
@@ -618,12 +629,14 @@ mealy
 meant
 medal
 media
+medic
 melon
 mercy
 merge
 merit
 merry
 metal
+meter
 metro
 micro
 midge
@@ -646,8 +659,10 @@ mourn
 mouse
 movie
 mucky
+mulch
 mummy
 mural
+mushy
 music
 musty
 naive
@@ -656,6 +671,7 @@ nasty
 natal
 naval
 needy
+neigh
 nerdy
 never
 nicer
@@ -679,6 +695,7 @@ order
 organ
 other
 ought
+ounce
 outdo
 outer
 overt
@@ -817,6 +834,7 @@ sally
 salsa
 salty
 sassy
+saucy
 saute
 savor
 scald
@@ -827,6 +845,7 @@ scarf
 scent
 scoff
 scold
+scone
 scope
 scorn
 scour
@@ -855,6 +874,7 @@ shift
 shine
 shire
 shirk
+shore
 shorn
 shown
 showy
@@ -865,7 +885,9 @@ siege
 sight
 since
 sissy
+skate
 skier
+skiff
 skill
 skimp
 skirt
@@ -922,6 +944,7 @@ spill
 spire
 splat
 spoke
+spout
 spray
 spurt
 squad
@@ -930,6 +953,7 @@ staff
 stage
 staid
 stair
+stake
 stale
 stall
 stand
@@ -953,6 +977,7 @@ stone
 stony
 stool
 store
+storm
 story
 stout
 stove
@@ -1082,8 +1107,8 @@ usurp
 utter
 vague
 valet
-value
 valid
+value
 vapid
 vault
 venom
