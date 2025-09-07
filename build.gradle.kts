@@ -1,5 +1,7 @@
+import org.jetbrains.kotlin.gradle.dsl.KotlinVersion
+
 plugins {
-    kotlin("jvm") version "2.0.0"
+    kotlin("jvm") version "2.2.10"
 }
 
 group = "bagguley.wordle"
@@ -17,5 +19,8 @@ tasks.test {
 }
 
 kotlin {
-    jvmToolchain(18)
+    compilerOptions {
+        apiVersion.set(KotlinVersion.KOTLIN_2_2)
+        languageVersion.set(KotlinVersion.KOTLIN_2_2)
+    }
 }
