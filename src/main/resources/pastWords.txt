@@ -40,6 +40,7 @@ alert
 alien
 alike
 alive
+allot
 allow
 aloft
 alone
@@ -94,8 +95,8 @@ audio
 audit
 avail
 avert
+avoid
 await
-awake
 award
 aware
 awash
@@ -114,6 +115,7 @@ balsa
 banal
 banjo
 barge
+baron
 basic
 basin
 baste
@@ -156,6 +158,7 @@ blare
 blast
 blaze
 bleak
+bleat
 bleed
 bleep
 blend
@@ -165,6 +168,7 @@ bliss
 block
 bloke
 blond
+bloom
 blown
 bluff
 blunt
@@ -251,6 +255,7 @@ caulk
 cause
 cease
 cedar
+cello
 chafe
 chain
 chair
@@ -262,12 +267,14 @@ chard
 charm
 chart
 chase
+chasm
 cheap
 cheat
 check
 cheek
 cheer
 chest
+chide
 chief
 child
 chill
@@ -295,8 +302,10 @@ clear
 cleft
 clerk
 click
+cliff
 climb
 cling
+clink
 cloak
 clock
 clone
@@ -354,10 +363,12 @@ crook
 cross
 crowd
 crown
+cruel
 crumb
 crush
 crust
 crypt
+cubic
 cumin
 curio
 curly
@@ -434,6 +445,7 @@ drove
 dryer
 duchy
 dummy
+dusky
 dutch
 duvet
 dwarf
@@ -457,6 +469,7 @@ elite
 elope
 elude
 email
+embed
 ember
 empty
 enact
@@ -512,6 +525,7 @@ fewer
 fiber
 field
 fiend
+fiery
 fifth
 fifty
 filet
@@ -526,6 +540,7 @@ fjord
 flail
 flair
 flake
+flaky
 flame
 flank
 flare
@@ -571,6 +586,7 @@ foyer
 frail
 frame
 frank
+freak
 fresh
 fried
 frill
@@ -596,6 +612,7 @@ gaudy
 gauge
 gaunt
 gauze
+gavel
 gawky
 gecko
 geese
@@ -678,6 +695,7 @@ guild
 guile
 guise
 gully
+gumbo
 gummy
 guppy
 gusty
@@ -713,6 +731,7 @@ hippo
 hitch
 hoard
 hobby
+hoist
 holly
 homer
 honey
@@ -774,6 +793,7 @@ jolly
 joust
 judge
 juice
+jumbo
 jumpy
 karma
 kayak
@@ -919,12 +939,14 @@ miser
 modal
 model
 modem
+mogul
 moist
 molar
 moldy
 mommy
 money
 month
+mooch
 moose
 moral
 mossy
@@ -1122,6 +1144,7 @@ quite
 quota
 quote
 rabid
+racer
 radio
 rainy
 raise
@@ -1175,6 +1198,7 @@ rocky
 rodeo
 rogue
 roomy
+roost
 rouge
 rough
 round
@@ -1277,6 +1301,7 @@ skiff
 skill
 skimp
 skirt
+skull
 skunk
 slang
 slate
@@ -1340,6 +1365,7 @@ spiel
 spike
 spill
 spine
+spiny
 spire
 spite
 splat
@@ -1405,6 +1431,7 @@ stove
 strap
 straw
 stray
+strut
 study
 stump
 stung
@@ -1415,9 +1442,12 @@ suede
 sugar
 suite
 sulky
+sully
+sumac
 sunny
 super
 surer
+surge
 surly
 sushi
 swath
@@ -1431,6 +1461,7 @@ swing
 swirl
 swish
 swoon
+swoop
 sword
 swung
 syrup
@@ -1522,6 +1553,7 @@ trawl
 treat
 trend
 triad
+trial
 trice
 trick
 tripe
@@ -1582,6 +1614,7 @@ valid
 value
 vapid
 vault
+vegan
 venom
 venue
 verge
@@ -1612,9 +1645,11 @@ waltz
 waste
 watch
 water
+waxen
 weary
 wedge
 weedy
+weigh
 weird
 whack
 whale
