@@ -2,10 +2,10 @@ package bagguley.wordle
 
 fun main() {
     val allWordsStream = ClassLoader.getSystemResourceAsStream("allWords.txt")
-    val allWords = allWordsStream!!.bufferedReader().use { it.readText() }.split("\n").toSet()
+    val allWords = allWordsStream!!.bufferedReader().use { it.readText().lowercase() }.split("\n").toSet()
 
     val pastWordsStream = ClassLoader.getSystemResourceAsStream("pastWords.txt")
-    val pastWords = pastWordsStream!!.bufferedReader().use { it.readText() }.split("\n").toSet()
+    val pastWords = pastWordsStream!!.bufferedReader().use { it.readText().lowercase() }.split("\n").toSet()
 
     // Letters which are not in the answer
     val invalidLetters = ""
@@ -42,10 +42,10 @@ fun main() {
 }
 
 fun String.processed(): List<Pair<Int, Char>> {
-    return this.mapIndexed { index, c -> index to c}
+    return this.lowercase().mapIndexed { index, c -> index to c}
         .filter { it.second != '_' }
 }
 
 fun List<String>.letters(): Set<Char> {
-    return this.flatMap { it.toList().filter { it != '_' } }.toSet()
+    return this.flatMap { it.lowercase().toList().filter { it != '_' } }.toSet()
 }
