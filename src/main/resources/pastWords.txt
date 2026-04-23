@@ -22,6 +22,7 @@ adopt
 adore
 adult
 affix
+afoot
 after
 again
 agape
@@ -47,6 +48,7 @@ alone
 along
 aloof
 aloud
+alley
 alpha
 altar
 alter
@@ -56,12 +58,14 @@ amble
 amiss
 among
 ample
+amply
 amuse
 angel
 anger
 angle
 angry
 angst
+ankle
 annex
 annoy
 anode
@@ -87,6 +91,7 @@ aside
 askew
 assay
 asset
+attic
 atlas
 atoll
 atone
@@ -98,6 +103,7 @@ avert
 avoid
 await
 award
+awake
 aware
 awash
 awful
@@ -117,6 +123,7 @@ banjo
 barge
 baron
 basic
+basil
 basin
 baste
 batch
@@ -131,11 +138,14 @@ beard
 beast
 beaut
 beefy
+befit
 beget
 begin
+begun
 being
 belch
 belie
+belle
 belly
 below
 bench
@@ -213,6 +223,7 @@ briny
 brisk
 broad
 broke
+brood
 brook
 broom
 broth
@@ -231,6 +242,7 @@ bunch
 bunny
 burly
 burnt
+buyer
 cable
 cacao
 cache
@@ -246,6 +258,7 @@ caper
 carat
 cargo
 carol
+carom
 carry
 carve
 catch
@@ -286,6 +299,7 @@ choke
 chord
 chore
 chose
+chump
 chunk
 chute
 cider
@@ -296,6 +310,7 @@ civic
 civil
 clamp
 clash
+clasp
 class
 clean
 clear
@@ -315,6 +330,7 @@ cloud
 clove
 clown
 cluck
+clump
 clung
 coach
 coast
@@ -369,12 +385,14 @@ crush
 crust
 crypt
 cubic
+cubit
 cumin
 curio
 curly
 curse
 curve
 cyber
+cycle
 cynic
 daddy
 daisy
@@ -398,6 +416,7 @@ delay
 delta
 delve
 denim
+dense
 depot
 depth
 deter
@@ -414,6 +433,7 @@ dirge
 disco
 ditto
 ditty
+dizzy
 dodge
 dodgy
 dogma
@@ -429,6 +449,7 @@ dowry
 dozen
 draft
 drain
+drama
 drape
 drawn
 dread
@@ -456,6 +477,7 @@ eagle
 early
 earth
 easel
+eaten
 ebony
 edict
 edify
@@ -465,6 +487,7 @@ eject
 elate
 elbow
 elder
+elfin
 elite
 elope
 elude
@@ -479,6 +502,7 @@ enjoy
 ennui
 ensue
 enter
+envoy
 epoch
 epoxy
 equal
@@ -536,6 +560,7 @@ finer
 first
 fishy
 fixer
+fizzy
 fjord
 flail
 flair
@@ -564,6 +589,7 @@ fluff
 flume
 flung
 flunk
+fluke
 flute
 flyer
 foamy
@@ -688,6 +714,7 @@ gruel
 gruff
 guano
 guard
+guava
 guess
 guest
 guide
@@ -697,6 +724,7 @@ guise
 gully
 gumbo
 gummy
+gunky
 guppy
 gusty
 habit
@@ -707,6 +735,7 @@ happy
 hardy
 harsh
 haste
+hasty
 hatch
 hater
 haunt
@@ -751,6 +780,7 @@ hunch
 hunky
 hurry
 hutch
+hydra
 hyena
 hyper
 icing
@@ -770,6 +800,7 @@ inept
 inert
 infer
 inlay
+inlet
 inner
 input
 inter
@@ -816,8 +847,10 @@ koala
 krill
 label
 labor
+laden
 ladle
 lager
+lance
 lanky
 lapel
 lapse
@@ -860,6 +893,7 @@ lithe
 liver
 livid
 llama
+lobby
 local
 locus
 lodge
@@ -998,6 +1032,7 @@ nudge
 nurse
 nylon
 nymph
+oasis
 occur
 ocean
 octet
@@ -1120,6 +1155,7 @@ proud
 prove
 prowl
 proxy
+prude
 prune
 psalm
 pulpy
@@ -1166,6 +1202,7 @@ recap
 recur
 refer
 regal
+rehab
 relax
 relay
 relic
@@ -1249,6 +1286,7 @@ sedan
 seedy
 segue
 sense
+serif
 serum
 serve
 seven
@@ -1267,6 +1305,7 @@ sharp
 shave
 shawl
 shear
+sheep
 sheet
 shelf
 shell
@@ -1274,6 +1313,7 @@ shift
 shine
 shire
 shirk
+shoal
 shore
 shorn
 short
@@ -1281,6 +1321,7 @@ shout
 shove
 shown
 showy
+shred
 shrub
 shrug
 shuck
@@ -1291,6 +1332,7 @@ siege
 sight
 silly
 since
+singe
 siren
 sissy
 sitar
@@ -1308,6 +1350,8 @@ slate
 sleek
 sleep
 slice
+slick
+slime
 slope
 slosh
 sloth
@@ -1317,6 +1361,7 @@ small
 smart
 smash
 smear
+smell
 smelt
 smile
 smirk
@@ -1334,8 +1379,10 @@ snarl
 sneak
 snide
 snoop
+snore
 snort
 snout
+sober
 soggy
 solar
 solid
@@ -1395,6 +1442,7 @@ stale
 stall
 stamp
 stand
+stank
 stare
 stark
 start
@@ -1450,6 +1498,7 @@ surer
 surge
 surly
 sushi
+swamp
 swath
 sweat
 sweep
@@ -1463,6 +1512,7 @@ swish
 swoon
 swoop
 sword
+sworn
 swung
 syrup
 tabby
@@ -1486,6 +1536,7 @@ tawny
 teach
 teary
 tease
+teddy
 teeth
 tempo
 tenor
@@ -1493,6 +1544,7 @@ tenth
 tepid
 terse
 thank
+theft
 their
 theme
 there
@@ -1525,6 +1577,7 @@ titan
 tithe
 title
 tizzy
+toady
 toast
 today
 tonic
@@ -1577,6 +1630,7 @@ tutor
 twang
 tweak
 tweed
+tweet
 twice
 twine
 twirl
@@ -1631,6 +1685,8 @@ vital
 vivid
 vixen
 vodka
+vogue
+voice
 voice
 voila
 voter
@@ -1647,6 +1703,7 @@ watch
 water
 waxen
 weary
+weave
 wedge
 weedy
 weigh
@@ -1673,6 +1730,7 @@ width
 wield
 wince
 windy
+wiser
 witch
 witty
 woken
