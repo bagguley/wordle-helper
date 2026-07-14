@@ -1,6 +1,6 @@
 [versions]
 benmanesVersions = "0.54.0"
-kotlin = "2.4.0"
+kotlin = "2.4.10"
 
 [plugins]
 benmanesVersions = { id = "com.github.ben-manes.versions", version.ref = "benmanesVersions" }
