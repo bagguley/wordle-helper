@@ -3,5 +3,5 @@ benmanesVersions = "0.64.0"
 kotlin = "2.4.10"
 
 [plugins]
-benmanesVersions = { id = "com.github.ben-manes.versions", version.ref = "benmanesVersions" }
+benmanesVersions = { id = "io.github.ben-manes.versions", version.ref = "benmanesVersions" }
 kotlinJvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
